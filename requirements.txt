@@ -1,0 +1,18 @@
+# Core dependencies
+numpy>=1.16.0,<1.17.0  # Specific version for Python 3.6 compatibility
+Theano==1.0.4          # Fixed version for stability
+Pillow>=6.2.0         # For image processing
+six>=1.12.0           # Python 2/3 compatibility
+
+# Scientific computing
+scipy>=1.2.0          # Scientific computations
+matplotlib>=3.0.3     # For plotting and visualization
+
+# Development dependencies
+pytest>=4.6.0         # For running tests
+flake8>=3.7.0         # For code style checking
+ipython>=7.5.0        # For interactive development
+
+# Optional GPU support
+# Uncomment if using GPU
+# pycuda>=2019.1.2
