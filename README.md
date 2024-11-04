@@ -208,4 +208,4 @@ If you use this code in your research, please cite:
 
 ## Contact
 
-For questions and support, please open an issue on the [GitHub repository](https://github.com/EbGazar/deep-belief-network/issues).
+For questions and support, please open an issue on the [GitHub repository](https://github.com/EbGazar/Deep-Belief-Network-Implementation/issues).
